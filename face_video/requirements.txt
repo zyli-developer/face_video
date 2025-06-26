@@ -1,0 +1,8 @@
+opencv-python
+numpy
+tensorflow
+keras
+transformers
+torch
+TTS
+moviepy 
